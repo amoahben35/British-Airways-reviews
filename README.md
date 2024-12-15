@@ -40,6 +40,9 @@ To get started with the dashboard, ensure you have Tableau installed if you plan
 
 ## Contributing
 
+![image](https://github.com/user-attachments/assets/261469f0-a020-418e-a403-8f1606f5515f)
+
+
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. We welcome improvements to the dashboard and additional analyses!
 
 ## License
